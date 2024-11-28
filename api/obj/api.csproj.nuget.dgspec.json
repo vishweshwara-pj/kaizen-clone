@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\kaizen-final\\api\\api.csproj": {}
+    "C:\\Users\\Admin\\Documents\\kaizen-final - Copy\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\kaizen-final\\api\\api.csproj": {
+    "C:\\Users\\Admin\\Documents\\kaizen-final - Copy\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\kaizen-final\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\kaizen-final - Copy\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\Admin\\Documents\\kaizen-final\\api\\api.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\kaizen-final - Copy\\api\\api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\kaizen-final\\api\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\kaizen-final - Copy\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
