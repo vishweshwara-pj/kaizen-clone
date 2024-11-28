@@ -55,12 +55,7 @@ namespace MyWebApi.Controllers
                 connection.Open();
                 var query = @"SELECT Theme_title, kaizen_workarea, type_of_kaizen, before_kaizen, ideal_situation, current_situation
                               FROM KaizenEntries
-                              WHERE Theme_title LIKE @keyword
-                              OR kaizen_workarea LIKE @keyword
-                              OR type_of_kaizen LIKE @keyword
-                              OR before_kaizen LIKE @keyword
-                              OR ideal_situation LIKE @keyword
-                              OR current_situation LIKE @keyword;";
+                              WHERE Theme_title LIKE @keyword;";
 
                 using (var command = new SqlCommand(query, connection))
                 {
